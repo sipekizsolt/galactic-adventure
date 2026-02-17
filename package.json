@@ -1,0 +1,75 @@
+{
+  "name": "spacefarer",
+  "version": "1.0.0",
+  "dependencies": {
+    "@cap-js/sqlite": "^2.1.3",
+    "@sap/cds": "^9"
+  },
+  "cds": {
+    "requires": {
+      "db": {
+        "kind": "sqlite"
+      },
+      "auth": {
+        "kind": "mocked",
+        "users": {
+          "marsUser": {
+            "roles": ["spacefarer"],
+            "attr": {
+              "planet": "Mars"
+            }
+          },
+          "keplerUser": {
+            "roles": ["spacefarer"],
+            "attr": {
+              "planet": "Kepler-22b"
+            }
+          },
+          "proximaUser": {
+            "roles": ["spacefarer"],
+            "attr": {
+              "planet": "Proxima b"
+            }
+          },
+          "saturnUser": {
+            "roles": ["spacefarer"],
+            "attr": {
+              "planet": "Saturn"
+            }
+          },
+          "uranusUser": {
+            "roles": ["spacefarer"],
+            "attr": {
+              "planet": "Uranus"
+            }
+          },
+          "venusUser": {
+            "roles": ["spacefarer"],
+            "attr": {
+              "planet": "Venus"
+            }
+          }
+        }
+      }
+      }
+  },
+  "workspaces": [
+    "app/*"
+  ],
+  "devDependencies": {
+    "@sap/ux-ui5-tooling": "^1.20.2",
+    "cds-plugin-ui5": "^0.13.0",
+    "ui5-middleware-simpleproxy": "^3.6.2"
+  },
+  "scripts": {
+    "watch-project1": "cds watch --open project1/index.html?sap-ui-xx-viewCache=false --livereload false",
+    "watch-spacefarer": "cds watch --open spacefarer/index.html?sap-ui-xx-viewCache=false --livereload false",
+    "watch-aldi.fiori.ui": "cds watch --open aldi.fiori.ui/index.html?sap-ui-xx-viewCache=false --livereload false",
+    "watch-aldi.spacefarer.ui": "cds watch --open aldi.spacefarer.ui/index.html?sap-ui-xx-viewCache=false --livereload false",
+    "watch-aldi.department.ui": "cds watch --open aldi.department.ui/index.html?sap-ui-xx-viewCache=false --livereload false"
+  },
+  "sapux": [
+    "app/aldi.spacefarer.ui",
+    "app/aldi.department.ui"
+  ]
+}

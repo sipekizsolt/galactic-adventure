@@ -1,0 +1,101 @@
+name,originPlanet,spacesuitColor,stardustCollection,wormholeNavSkill,department_ID
+Nova 0,Mars,Silver,7741,Expert,53167114-a6fb-4086-b569-34ce3fed20a7
+Mira 1,Mars,Blue,5588,Advanced,53167114-a6fb-4086-b569-34ce3fed20a7
+Zara 2,Kepler-22b,Gold,2064,Advanced,53167114-a6fb-4086-b569-34ce3fed20a7
+Kiro 3,Saturn,Red,3756,Expert,53167114-a6fb-4086-b569-34ce3fed20a7
+Vega 4,Uranus,White,354,Beginner,71d99336-3c89-423f-a0a6-a0c8f821246b
+Atlas 5,Venus,Blue,2079,Intermediate,71d99336-3c89-423f-a0a6-a0c8f821246b
+Talon 6,Venus,Gold,836,Expert,53167114-a6fb-4086-b569-34ce3fed20a7
+Atlas 7,Venus,White,8254,Expert,71d99336-3c89-423f-a0a6-a0c8f821246b
+Zara 8,Jupiter,White,9203,Intermediate,71d99336-3c89-423f-a0a6-a0c8f821246b
+Atlas 9,Mars,Gold,5026,Expert,71d99336-3c89-423f-a0a6-a0c8f821246b
+Kiro 10,Uranus,Black,9623,Expert,53167114-a6fb-4086-b569-34ce3fed20a7
+Rhea 11,Jupiter,Red,49,Beginner,71d99336-3c89-423f-a0a6-a0c8f821246b
+Rhea 12,Uranus,Black,2617,Intermediate,53167114-a6fb-4086-b569-34ce3fed20a7
+Lyra 13,Jupiter,Blue,4150,Advanced,71d99336-3c89-423f-a0a6-a0c8f821246b
+Lyra 14,Kepler-22b,Gold,4945,Expert,71d99336-3c89-423f-a0a6-a0c8f821246b
+Atlas 15,Kepler-22b,Gold,2136,Intermediate,71d99336-3c89-423f-a0a6-a0c8f821246b
+Mira 16,Saturn,Red,567,Advanced,53167114-a6fb-4086-b569-34ce3fed20a7
+Talon 17,Saturn,Silver,9612,Intermediate,71d99336-3c89-423f-a0a6-a0c8f821246b
+Nova 18,Venus,Red,3054,Advanced,71d99336-3c89-423f-a0a6-a0c8f821246b
+Atlas 19,Proxima b,Black,1847,Advanced,71d99336-3c89-423f-a0a6-a0c8f821246b
+Kiro 20,Kepler-22b,White,8620,Intermediate,53167114-a6fb-4086-b569-34ce3fed20a7
+Vega 21,Saturn,Black,1269,Intermediate,53167114-a6fb-4086-b569-34ce3fed20a7
+Atlas 22,Proxima b,White,9000,Expert,53167114-a6fb-4086-b569-34ce3fed20a7
+Rhea 23,Uranus,Black,1392,Intermediate,53167114-a6fb-4086-b569-34ce3fed20a7
+Kiro 24,Kepler-22b,Blue,6770,Beginner,53167114-a6fb-4086-b569-34ce3fed20a7
+Vega 25,Proxima b,Silver,7804,Beginner,71d99336-3c89-423f-a0a6-a0c8f821246b
+Nova 26,Venus,Blue,2006,Intermediate,71d99336-3c89-423f-a0a6-a0c8f821246b
+Mira 27,Proxima b,Gold,3960,Expert,53167114-a6fb-4086-b569-34ce3fed20a7
+Atlas 28,Jupiter,Silver,5257,Expert,71d99336-3c89-423f-a0a6-a0c8f821246b
+Atlas 29,Kepler-22b,Blue,217,Advanced,71d99336-3c89-423f-a0a6-a0c8f821246b
+Kiro 30,Mars,Gold,1997,Advanced,71d99336-3c89-423f-a0a6-a0c8f821246b
+Vega 31,Kepler-22b,Red,178,Beginner,53167114-a6fb-4086-b569-34ce3fed20a7
+Atlas 32,Proxima b,Silver,744,Expert,71d99336-3c89-423f-a0a6-a0c8f821246b
+Atlas 33,Proxima b,Black,6998,Expert,53167114-a6fb-4086-b569-34ce3fed20a7
+Nova 34,Kepler-22b,Gold,2556,Beginner,71d99336-3c89-423f-a0a6-a0c8f821246b
+Nova 35,Uranus,Blue,2548,Advanced,53167114-a6fb-4086-b569-34ce3fed20a7
+Talon 36,Kepler-22b,Gold,9999,Beginner,71d99336-3c89-423f-a0a6-a0c8f821246b
+Orion 37,Uranus,Black,2996,Intermediate,71d99336-3c89-423f-a0a6-a0c8f821246b
+Atlas 38,Mars,White,2211,Beginner,53167114-a6fb-4086-b569-34ce3fed20a7
+Zara 39,Saturn,Black,3617,Beginner,53167114-a6fb-4086-b569-34ce3fed20a7
+Kiro 40,Venus,White,7384,Intermediate,71d99336-3c89-423f-a0a6-a0c8f821246b
+Vega 41,Uranus,Red,2007,Expert,71d99336-3c89-423f-a0a6-a0c8f821246b
+Kiro 42,Venus,Blue,176,Expert,53167114-a6fb-4086-b569-34ce3fed20a7
+Talon 43,Kepler-22b,Red,4291,Expert,53167114-a6fb-4086-b569-34ce3fed20a7
+Atlas 44,Saturn,Black,5938,Expert,53167114-a6fb-4086-b569-34ce3fed20a7
+Kiro 45,Kepler-22b,Black,7747,Intermediate,53167114-a6fb-4086-b569-34ce3fed20a7
+Nova 46,Jupiter,White,8362,Expert,53167114-a6fb-4086-b569-34ce3fed20a7
+Zara 47,Mars,Blue,3653,Advanced,53167114-a6fb-4086-b569-34ce3fed20a7
+Nova 48,Saturn,White,7799,Expert,71d99336-3c89-423f-a0a6-a0c8f821246b
+Vega 49,Saturn,Blue,9019,Expert,53167114-a6fb-4086-b569-34ce3fed20a7
+Orion 50,Mars,Red,3932,Advanced,71d99336-3c89-423f-a0a6-a0c8f821246b
+Orion 51,Mars,Blue,4907,Expert,53167114-a6fb-4086-b569-34ce3fed20a7
+Zara 52,Uranus,Blue,6559,Beginner,53167114-a6fb-4086-b569-34ce3fed20a7
+Lyra 53,Venus,Red,270,Intermediate,53167114-a6fb-4086-b569-34ce3fed20a7
+Talon 54,Uranus,Blue,783,Advanced,71d99336-3c89-423f-a0a6-a0c8f821246b
+Orion 55,Saturn,Black,6443,Beginner,71d99336-3c89-423f-a0a6-a0c8f821246b
+Atlas 56,Saturn,Gold,7042,Advanced,53167114-a6fb-4086-b569-34ce3fed20a7
+Zara 57,Proxima b,Blue,5749,Intermediate,53167114-a6fb-4086-b569-34ce3fed20a7
+Mira 58,Saturn,White,3919,Advanced,71d99336-3c89-423f-a0a6-a0c8f821246b
+Talon 59,Jupiter,White,8637,Beginner,71d99336-3c89-423f-a0a6-a0c8f821246b
+Nova 60,Venus,Gold,7662,Expert,53167114-a6fb-4086-b569-34ce3fed20a7
+Zara 61,Kepler-22b,Silver,6353,Intermediate,71d99336-3c89-423f-a0a6-a0c8f821246b
+Zara 62,Proxima b,Black,1251,Advanced,53167114-a6fb-4086-b569-34ce3fed20a7
+Orion 63,Venus,White,5077,Expert,53167114-a6fb-4086-b569-34ce3fed20a7
+Kiro 64,Mars,Blue,1828,Advanced,53167114-a6fb-4086-b569-34ce3fed20a7
+Talon 65,Venus,Blue,6273,Expert,71d99336-3c89-423f-a0a6-a0c8f821246b
+Zara 66,Proxima b,Black,5121,Beginner,71d99336-3c89-423f-a0a6-a0c8f821246b
+Rhea 67,Uranus,Red,8751,Beginner,71d99336-3c89-423f-a0a6-a0c8f821246b
+Nova 68,Jupiter,White,7521,Beginner,71d99336-3c89-423f-a0a6-a0c8f821246b
+Zara 69,Jupiter,Silver,3957,Advanced,71d99336-3c89-423f-a0a6-a0c8f821246b
+Orion 70,Jupiter,Black,1103,Intermediate,71d99336-3c89-423f-a0a6-a0c8f821246b
+Nova 71,Kepler-22b,Red,3729,Beginner,53167114-a6fb-4086-b569-34ce3fed20a7
+Talon 72,Venus,Blue,8981,Beginner,71d99336-3c89-423f-a0a6-a0c8f821246b
+Nova 73,Uranus,White,295,Advanced,53167114-a6fb-4086-b569-34ce3fed20a7
+Lyra 74,Kepler-22b,White,4613,Beginner,53167114-a6fb-4086-b569-34ce3fed20a7
+Nova 75,Jupiter,Red,2293,Intermediate,71d99336-3c89-423f-a0a6-a0c8f821246b
+Orion 76,Venus,Silver,4409,Beginner,71d99336-3c89-423f-a0a6-a0c8f821246b
+Atlas 77,Mars,White,1285,Beginner,53167114-a6fb-4086-b569-34ce3fed20a7
+Vega 78,Jupiter,White,2590,Beginner,71d99336-3c89-423f-a0a6-a0c8f821246b
+Mira 79,Saturn,Black,6934,Advanced,53167114-a6fb-4086-b569-34ce3fed20a7
+Mira 80,Saturn,White,8547,Expert,53167114-a6fb-4086-b569-34ce3fed20a7
+Atlas 81,Uranus,Red,2169,Beginner,53167114-a6fb-4086-b569-34ce3fed20a7
+Lyra 82,Jupiter,Gold,6973,Beginner,53167114-a6fb-4086-b569-34ce3fed20a7
+Talon 83,Venus,Black,9234,Beginner,71d99336-3c89-423f-a0a6-a0c8f821246b
+Nova 84,Mars,Silver,9569,Beginner,71d99336-3c89-423f-a0a6-a0c8f821246b
+Atlas 85,Proxima b,Blue,5906,Advanced,71d99336-3c89-423f-a0a6-a0c8f821246b
+Talon 86,Proxima b,Red,5243,Intermediate,71d99336-3c89-423f-a0a6-a0c8f821246b
+Orion 87,Jupiter,Gold,5165,Advanced,71d99336-3c89-423f-a0a6-a0c8f821246b
+Talon 88,Jupiter,Gold,2742,Expert,71d99336-3c89-423f-a0a6-a0c8f821246b
+Orion 89,Jupiter,Silver,5390,Advanced,53167114-a6fb-4086-b569-34ce3fed20a7
+Atlas 90,Saturn,White,9080,Advanced,71d99336-3c89-423f-a0a6-a0c8f821246b
+Talon 91,Mars,Gold,1104,Beginner,71d99336-3c89-423f-a0a6-a0c8f821246b
+Vega 92,Proxima b,White,7713,Intermediate,53167114-a6fb-4086-b569-34ce3fed20a7
+Talon 93,Proxima b,Blue,1453,Intermediate,71d99336-3c89-423f-a0a6-a0c8f821246b
+Lyra 94,Kepler-22b,White,1960,Expert,53167114-a6fb-4086-b569-34ce3fed20a7
+Zara 95,Uranus,Red,1932,Beginner,53167114-a6fb-4086-b569-34ce3fed20a7
+Rhea 96,Uranus,White,7931,Advanced,71d99336-3c89-423f-a0a6-a0c8f821246b
+Nova 97,Kepler-22b,Blue,8188,Expert,53167114-a6fb-4086-b569-34ce3fed20a7
+Lyra 98,Proxima b,Black,6191,Beginner,53167114-a6fb-4086-b569-34ce3fed20a7
+Lyra 99,Jupiter,Gold,2470,Intermediate,71d99336-3c89-423f-a0a6-a0c8f821246b
