@@ -1,0 +1,18 @@
+{
+    "applications" : { 
+        "MyFioriObject-display" : {
+            "additionalInformation" : "SAPUI5.Component=aldi.spacefarer.ui",
+            "applicationType" : "URL",
+            "url" : "./resources/aldi.spacefarer.ui",
+            "title" : "My Fiori Application",
+            "description" : "My first Fiori application"
+        },
+        "MySecondFioriObject-display" : {
+            "additionalInformation" : "SAPUI5.Component=aldi.department.ui",
+            "applicationType" : "URL",
+            "url" : "./resources/aldi.department.ui",
+            "title" : "My Second Fiori Application",
+            "description" : "My second Fiori application"
+        }
+    }
+}

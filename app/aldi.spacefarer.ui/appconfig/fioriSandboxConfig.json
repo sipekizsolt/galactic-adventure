@@ -1,0 +1,9 @@
+{
+    "applications": {
+        "department-display": {
+            "additionalInformation": "SAPUI5.Component=aldi.department.ui",
+            "applicationType": "URL",
+            "url": "../../aldi.dapertment.ui"
+        }
+    }
+}

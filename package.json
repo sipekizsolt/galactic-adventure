@@ -62,11 +62,7 @@
     "ui5-middleware-simpleproxy": "^3.6.2"
   },
   "scripts": {
-    "watch-project1": "cds watch --open project1/index.html?sap-ui-xx-viewCache=false --livereload false",
-    "watch-spacefarer": "cds watch --open spacefarer/index.html?sap-ui-xx-viewCache=false --livereload false",
-    "watch-aldi.fiori.ui": "cds watch --open aldi.fiori.ui/index.html?sap-ui-xx-viewCache=false --livereload false",
-    "watch-aldi.spacefarer.ui": "cds watch --open aldi.spacefarer.ui/index.html?sap-ui-xx-viewCache=false --livereload false",
-    "watch-aldi.department.ui": "cds watch --open aldi.department.ui/index.html?sap-ui-xx-viewCache=false --livereload false"
+    "watch": "cds watch --open launchpad/flpSandbox.html?sap-ui-xx-viewCache=false --livereload false"
   },
   "sapux": [
     "app/aldi.spacefarer.ui",

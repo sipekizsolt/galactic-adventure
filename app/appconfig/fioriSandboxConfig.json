@@ -1,0 +1,16 @@
+{
+    "applications" : { 
+        "spacefarer-display" : {
+            "additionalInformation" : "SAPUI5.Component=aldi.spacefarer.ui",
+            "applicationType" : "URL",
+            "url" : "../aldi.spacefarer.ui",
+            "title" : "Manage Spacefarers"
+        },
+        "department-display" : {
+            "additionalInformation" : "SAPUI5.Component=aldi.department.ui",
+            "applicationType" : "URL",
+            "url" : "../aldi.department.ui",
+            "title" : "Manage Departments"
+        }
+    }
+}

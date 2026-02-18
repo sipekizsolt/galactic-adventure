@@ -3,7 +3,7 @@
 - Clone repo
 - Run `npm install`
 - Run `cds deploy`
-- Run `npm run watch-aldi.spacefarer.ui`
+- Run `npm run watch`
 - Login with one of these users (you can leave the password empty)
     - marsUser
     - keplerUser

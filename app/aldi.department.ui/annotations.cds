@@ -8,7 +8,8 @@ annotate service.Department with @(
       Facets : [
         {
           $Type  : 'UI.ReferenceFacet',
-          Target : '@UI.FieldGroup#General'
+          Target : '@UI.FieldGroup#General',
+          ID     : 'GeneralFacetRef'
         }
       ]
     },

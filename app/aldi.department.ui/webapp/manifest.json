@@ -24,6 +24,19 @@
           "odataVersion": "4.0"
         }
       }
+    },
+    "crossNavigation": {
+      "inbounds": {
+        "department-display": {
+          "semanticObject": "department",
+          "action": "display",
+          "title": "{{department-display.flpTitle}}",
+          "signature": {
+            "parameters": {},
+            "additionalParameters": "allowed"
+          }
+        }
+      }
     }
   },
   "sap.ui": {
@@ -117,6 +130,18 @@
                     "type": "ResponsiveTable"
                   }
                 }
+              },
+              "content": {
+                "header": {
+                  "actions": {
+                    "manageSpacefarers": {
+                      "press": ".extension.aldi.department.ui.ext.controller.Main.openSpacefarerApp",
+                      "visible": true,
+                      "enabled": true,
+                      "text": "Manage Spacefarers"
+                    }
+                  }
+                }
               }
             }
           }
@@ -130,6 +155,15 @@
               "editableHeaderContent": false,
               "contextPath": "/Department"
             }
+          }
+        }
+      }
+    },
+    "extends": {
+      "extensions": {
+        "sap.ui.controllerExtensions": {
+          "sap.fe.templates.ListReport.ListReportController": {
+            "controllerName": "aldi.department.ui.ext.controller.Main"
           }
         }
       }

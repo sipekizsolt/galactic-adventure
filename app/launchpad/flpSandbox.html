@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+
+  <script src="./sandbox.js"></script>
+
+  <script id="sap-ushell-bootstrap" 
+  src="https://ui5.sap.com/test-resources/sap/ushell/bootstrap/sandbox.js"></script>
+
+  <script 
+  id="sap-ui-bootstrap" 
+  src="https://ui5.sap.com/resources/sap-ui-core.js" 
+  data-sap-ui-theme="sap_horizon_dark"
+  data-sap-ui-compatVersion="edge" 
+  data-sap-ui-async="true" 
+  data-sap-ui-preload="async"></script>
+  
+  <script id="sap-ushell-renderer">
+    sap.ui.getCore().attachInit(() => sap.ushell.Container.createRenderer(null, true).then((content) => content.placeAt(
+      "content")))
+  </script>
+</head>
+
+<body id="content" class="sapUiBody"></body>
+
+</html>
