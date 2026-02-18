@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "@cap-js/sqlite": "^2.1.3",
-    "@sap/cds": "^9"
+    "@sap/cds": "^9.7.1"
   },
   "cds": {
     "requires": {
@@ -14,57 +14,70 @@
         "kind": "mocked",
         "users": {
           "marsUser": {
-            "roles": ["spacefarer"],
+            "roles": [
+              "spacefarer"
+            ],
             "attr": {
               "planet": "Mars"
             }
           },
           "keplerUser": {
-            "roles": ["spacefarer"],
+            "roles": [
+              "spacefarer"
+            ],
             "attr": {
               "planet": "Kepler-22b"
             }
           },
           "proximaUser": {
-            "roles": ["spacefarer"],
+            "roles": [
+              "spacefarer"
+            ],
             "attr": {
               "planet": "Proxima b"
             }
           },
           "saturnUser": {
-            "roles": ["spacefarer"],
+            "roles": [
+              "spacefarer"
+            ],
             "attr": {
               "planet": "Saturn"
             }
           },
           "uranusUser": {
-            "roles": ["spacefarer"],
+            "roles": [
+              "spacefarer"
+            ],
             "attr": {
               "planet": "Uranus"
             }
           },
           "venusUser": {
-            "roles": ["spacefarer"],
+            "roles": [
+              "spacefarer"
+            ],
             "attr": {
               "planet": "Venus"
             }
           }
         }
       }
-      }
+    }
   },
   "workspaces": [
     "app/*"
   ],
   "devDependencies": {
+    "@sap/cds-dk": "^9.7.2",
     "@sap/ux-ui5-tooling": "^1.20.2",
     "cds-plugin-ui5": "^0.13.0",
     "ui5-middleware-simpleproxy": "^3.6.2"
   },
   "scripts": {
     "watch": "cds watch --open launchpad/flpSandbox.html?sap-ui-xx-viewCache=false --livereload false",
-    "start": "cds run",
-    "build": "cds build"
+    "build": "npx cds build",
+    "start": "npx cds run"
   },
   "sapux": [
     "app/aldi.spacefarer.ui",
