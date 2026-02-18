@@ -1,6 +1,6 @@
 module.exports = srv => {
 
-  srv.before('CREATE', 'Spacefarer', req => {
+  srv.before(['CREATE', 'UPDATE'], 'Spacefarer', req => {
     const data = req.data;
 
     if (req.data.originPlanet != req.user.attr.planet) {

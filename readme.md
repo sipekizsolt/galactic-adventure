@@ -1,9 +1,10 @@
 # How to use
 
-- Install project
+- Clone repo
+- Run `npm install`
 - Run `cds deploy`
 - Run `npm run watch-aldi.spacefarer.ui`
-- Login with one of these users and any password
+- Login with one of these users (you can leave the password empty)
     - marsUser
     - keplerUser
     - proximaUser
