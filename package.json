@@ -62,7 +62,9 @@
     "ui5-middleware-simpleproxy": "^3.6.2"
   },
   "scripts": {
-    "watch": "cds watch --open launchpad/flpSandbox.html?sap-ui-xx-viewCache=false --livereload false"
+    "watch": "cds watch --open launchpad/flpSandbox.html?sap-ui-xx-viewCache=false --livereload false",
+    "start": "cds run",
+    "build": "cds build"
   },
   "sapux": [
     "app/aldi.spacefarer.ui",
